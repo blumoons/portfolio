@@ -68,7 +68,7 @@ section {
 .btn {
   display: inline-block;
   padding: 0.6rem 1.2rem;
-  background: #0077cc;
+  background: #000000;
   color: white;
   border-radius: 5px;
   transition: background 0.3s;
@@ -87,7 +87,7 @@ section {
 }
 
 .skills li {
-  background: #0077cc;
+  background: #000000;
   color: white;
   padding: 0.3rem 0.6rem;
   border-radius: 5px;
@@ -95,7 +95,7 @@ section {
 }
 
 .project {
-  background: #fff;
+  background: #7fc6cf;
   padding: 1rem;
   margin-bottom: 1rem;
   border-radius: 8px;
